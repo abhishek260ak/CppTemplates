@@ -1,5 +1,5 @@
 //Sum of 'n' natural numbers - Recusive Solution
-//Abhishek Kumar - @abhishek260ak
+//Abhishek Kumar - @abhishekkumar1775
 
 #include<iostream>
 using namespace std;
