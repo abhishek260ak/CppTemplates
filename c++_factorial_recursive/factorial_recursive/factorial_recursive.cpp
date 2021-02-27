@@ -1,5 +1,5 @@
 
-//Sum of 'n' natural numbers - Recusive Solution
+//Factorial of a number 'n' - Recursive Solution
 //Abhishek Kumar - @abhishekkumar1775
 
 #include<iostream>
