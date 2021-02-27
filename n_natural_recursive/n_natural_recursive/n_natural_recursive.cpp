@@ -1,4 +1,4 @@
-//Sum of 'n' natural numbers - Recusive Solution
+//Sum of 'n' natural numbers - Recursive Solution
 //Abhishek Kumar - @abhishekkumar1775
 
 #include<iostream>
