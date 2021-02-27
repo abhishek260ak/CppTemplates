@@ -8,6 +8,8 @@ n_natural_recursive : finds the sum of first n natural numbers recursively.
 
 c++_factorial_recursive : determines the factorial of a number recusively. 
 
+cpp_pow_function_recursive : replica of inbuilt power function
+
 
 Abhishek Kumar
 
